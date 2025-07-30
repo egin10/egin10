@@ -24,7 +24,7 @@ I also love working on backend services and building mobile apps with clean arch
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=egin10&show_icons=true&theme=radical" alt="Egin's GitHub stats" />
   <!-- <img src="https://streak-stats.demolab.com/?user=egin10&theme=radical" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egin10&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egin10&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>
 
 ---
