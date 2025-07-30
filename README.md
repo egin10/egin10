@@ -19,7 +19,7 @@ I also love working on backend services and building mobile apps with clean arch
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=egin10&show_icons=true&theme=radical" alt="Egin's GitHub stats" />
