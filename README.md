@@ -32,6 +32,15 @@ I also love working on backend services and building mobile apps with clean arch
 ### ⏱️ Weekly Development
 
 <!--START_SECTION:waka-->
+
+```txt
+Kotlin              3 hrs 13 mins                 ▇██████████   56.49 %
+Go                  1 hr 17 mins         ▃███████████████████   22.56 %
+HTML                13 mins          ████████████████████████   04.00 %
+Gradle              10 mins         ▂████████████████████████   03.19 %
+Properties          10 mins         ▂████████████████████████   03.16 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
