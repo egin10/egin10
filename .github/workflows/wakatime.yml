@@ -1,9 +1,9 @@
 name: WakaTime Stats
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *' # Runs every 2 hours
 
 jobs:
   update-readme:
@@ -13,9 +13,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true              
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}              
           BLOCKS: "█▇▆▅▄▃▂▁ "               
-          TIME_RANGE: last_7_days       
-          LANG_COUNT: 5                 
-          SHOW_TOTAL: true              
+          TIME_RANGE: all_time              
