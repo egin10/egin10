@@ -34,11 +34,11 @@ I also love working on backend services and building mobile apps with clean arch
 <!--START_SECTION:waka-->
 
 ```txt
-Go                  6 hrs 36 mins   ■■■■■■■■■■■■□□□□□□□□□□□□□   47.21 %
-Kotlin              3 hrs 48 mins   ■■■■■■■□□□□□□□□□□□□□□□□□□   27.24 %
-SQL                 57 mins         ■■□□□□□□□□□□□□□□□□□□□□□□□   06.86 %
-Other               39 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.69 %
-Bash                35 mins         ■□□□□□□□□□□□□□□□□□□□□□□□□   04.20 %
+Go                  6 hrs 36 mins   ■■■■■■■■■□□□□□□□□□□□□□□□□   36.66 %
+Kotlin              3 hrs 48 mins   ■■■■■□□□□□□□□□□□□□□□□□□□□   21.15 %
+Bash                1 hr 41 mins    ■■□□□□□□□□□□□□□□□□□□□□□□□   09.37 %
+Other               1 hr 30 mins    ■■□□□□□□□□□□□□□□□□□□□□□□□   08.41 %
+SQL                 1 hr 26 mins    ■■□□□□□□□□□□□□□□□□□□□□□□□   07.98 %
 ```
 
 <!--END_SECTION:waka-->
