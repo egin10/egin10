@@ -3,7 +3,7 @@ name: WakaTime Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
+    - cron: '0 18 * * *' # Runs at 1 am (utc+7)
 
 jobs:
   update-readme:
@@ -16,3 +16,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}              
           BLOCKS: "□■"               
           TIME_RANGE: all_time              
+
