@@ -8,11 +8,11 @@ I'm a passionate full-stack developer from Indonesia 🇮🇩
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                             523 hrs 41 mins       ■■■■■■■■■■■■■■■■□□□□□□□□□   62.60 %
-Go                                 100 hrs 35 mins       ■■■□□□□□□□□□□□□□□□□□□□□□□   12.02 %
-TypeScript                         75 hrs 29 mins        ■■□□□□□□□□□□□□□□□□□□□□□□□   09.02 %
-YAML                               21 hrs 24 mins        ■□□□□□□□□□□□□□□□□□□□□□□□□   02.56 %
-Other                              20 hrs 58 mins        ■□□□□□□□□□□□□□□□□□□□□□□□□   02.51 %
+Kotlin                             525 hrs 28 mins       ■■■■■■■■■■■■■■■■□□□□□□□□□   62.67 %
+Go                                 100 hrs 35 mins       ■■■□□□□□□□□□□□□□□□□□□□□□□   12.00 %
+TypeScript                         75 hrs 29 mins        ■■□□□□□□□□□□□□□□□□□□□□□□□   09.00 %
+YAML                               21 hrs 24 mins        ■□□□□□□□□□□□□□□□□□□□□□□□□   02.55 %
+Other                              20 hrs 58 mins        ■□□□□□□□□□□□□□□□□□□□□□□□□   02.50 %
 ```
 
 <!--END_SECTION:waka-->
